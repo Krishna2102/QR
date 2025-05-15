@@ -1,3 +1,5 @@
+# pip install qrcode[pil]
+# Run this for qrcode library
 import qrcode
 
 # Website URL you want the QR code to lead to
